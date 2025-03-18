@@ -20,15 +20,15 @@ const Home = () => {
       {/* Sección de categorías */}
       <div className="categories">
         <div className="category">
-          <img src="/img/fisica.png" alt="Física" />
+          <img src="/img/physics.png" alt="Física" />
           <p>FÍSICA</p>
         </div>
         <div className="category">
-          <img src="/img/ingenieria-civil.png" alt="Ing Civil" />
+          <img src="/img/civil.png" alt="Ing Civil" />
           <p>ING CIVIL</p>
         </div>
         <div className="category">
-          <img src="/img/matematicas.png" alt="Matemáticas" />
+          <img src="/img/math.png" alt="Matemáticas" />
           <p>MATEMÁTICAS</p>
         </div>
       </div>
